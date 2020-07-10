@@ -1,5 +1,5 @@
 [![](http://img.shields.io/liberapay/receives/muety.svg?logo=liberapay&style=flat-square)](https://liberapay.com/muety/)
-![Hits](https://apps.muetsch.io/hitcount/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuety%2Fhit-counter)
+![Hits](https://apps.muetsch.io/hitcount/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuety)
 
 ## 👨‍💻 About Me
 Hi, I'm Ferdinand and I love to solve problems using code. I'm passionate about science, software, open source and technology in general.
