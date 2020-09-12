@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-(Inspired by [MarcoPower](https://github.com/MacroPower/MacroPower/blob/master/README.md#macropower-tech))
+(Inspired by [MacroPower](https://github.com/MacroPower/MacroPower/blob/master/README.md#macropower-tech))
 
 ## 📬 Contact
 See bio 👈. Feel free to contact me at any time!
