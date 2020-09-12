@@ -2,9 +2,10 @@
 
 ### I love to solve problems using code
 ![Hits](https://apps.muetsch.io/hitcount/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuety)
+[![Coding Activity](https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:30_days&style=flat-square&color=blue&label=last%2030d)](https://github.com/muety/wakapi)
 ![Followers](https://img.shields.io/github/followers/muety?style=flat-square&logo=github)
 [![](http://img.shields.io/liberapay/receives/muety.svg?logo=liberapay&style=flat-square)](https://liberapay.com/muety/)
-
+ 
 ## 👨‍💻 About Me
 ![](https://github-readme-stats.vercel.app/api?username=muety&show_icons=true&include_all_commits=true&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff)
 
