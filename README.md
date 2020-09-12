@@ -32,8 +32,20 @@
       <br>JavaScript<br>(⭐️⭐️⭐️)
     </td>
     <td align="center" width="96">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript<br>(⭐️⭐️)
+    </td>
+    <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python<br>(⭐️⭐️)
+    </td>
+     <td align="center" width="96">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      <br>Vue<br>(⭐️⭐️⭐️)
+    </td>
+    <td align="center" width="96">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker<br>(⭐️⭐️)
     </td>
   </tr>
 </table>
