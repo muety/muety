@@ -22,31 +22,31 @@
   <tr>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java<br>(⭐️⭐️⭐️)
+      <br>Java<br>(⭐️⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go<br>(⭐️⭐️⭐️)
+      <br>Go<br>(⭐️⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br>(⭐️⭐️⭐️)
+      <br>JavaScript<br>(⭐️⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript<br>(⭐️⭐️)
+      <br>TypeScript<br>(⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:TypeScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python<br>(⭐️⭐️)
+      <br>Python<br>(⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
      <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      <br>Vue<br>(⭐️⭐️⭐️)
+      <br>Vue<br>(⭐️⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker<br>(⭐️⭐️)
+      <br>Docker<br>(⭐️⭐️)<br><img src="https://img.shields.io/endpoint?url=https://apps.muetsch.io/wakapi/api/compat/shields/v1/n1try/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
     </td>
   </tr>
 </table>
