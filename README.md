@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ferdinand Mütsch
 
-### I love to solve problems using code
+### I love to solve problems with code
 ![Hits](https://apps.muetsch.io/hitcount/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuety)
 [![Coding Activity](https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:30_days&style=flat-square&color=blue&label=last%2030d)](https://github.com/muety/wakapi)
 ![Followers](https://badges.fw-web.space/github/followers/muety?style=flat-square&logo=github)
@@ -12,8 +12,8 @@
 * 📍 I'm based in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
 * 🔬 I'm passionate about science, software, open source and technology in general
 * 🏢 I'm working as a Software Engineer at [Frachtwerk GmbH](https://frachtwerk.de)
-* 🎓 I did my Masters at [Karlsruhe Institute of Technology](https://kit.edu)
-* 📝 I have an own [blog](https://muetsch.io/archives)
+* 🎓 I did my Master's at [Karlsruhe Institute of Technology](https://kit.edu)
+* 📝 I have my own [blog](https://muetsch.io/archives)
 * ⚙️ I love to hack
 * 🗣 I'm always up for tech talk
 
@@ -21,31 +21,31 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       <br>Go<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript<br>(⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:TypeScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python<br>(⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
      <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
       <br>Vue<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker<br>(⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
     </td>
   </tr>
@@ -60,7 +60,7 @@
 * **[peet1993](https://github.com/peet1993) wrote on 9/15/2020:** This is a guestbook entry.
 * **[muety](https://github.com/muety) wrote on 9/15/2020:** Welcome to my GitHub profile 🙂
 
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/muety/muety/issues/new?title=Guestbook) to my guestbook!
+Do you like my projects or just want to say hi? Feel free to [post](https://github.com/muety/muety/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
 
 ## 📬 Contact
