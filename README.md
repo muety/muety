@@ -64,7 +64,7 @@ Do you like my projects or just want to say hi? Feel free to [post](https://gith
 <!--END_SECTION:guestbook-->
 
 ## 🙏 Donations
-If you like my projects and feel like supporting me with a donation you can do so via GitHub Sponsors, [LiberyPay](https://liberapay.com/muety/) or by [buying me a coffee](https://www.buymeacoffee.com/n1try). Every single donation is highly appreciated! But please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂. 
+If you like my projects and feel like supporting me with a donation you can do so via GitHub Sponsors, [Liberapay](https://liberapay.com/muety/) or by [buying me a coffee](https://www.buymeacoffee.com/n1try). Every single donation is highly appreciated! But please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂. 
 
 ## 📬 Contact
 See bio 👈. Feel free to contact me at any time!
