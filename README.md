@@ -55,8 +55,9 @@
 
 ## 🗒 Guestbook
 <!--START_SECTION:guestbook-->
-<a href="https://github.com/OGoodness"><img src="https://avatars.githubusercontent.com/u/17714003?u=8eec684dc490897e4fffba619c1d2e8bce6031b3&v=4" height="30"/></a> <a href="https://github.com/Kugelschieber"><img src="https://avatars.githubusercontent.com/u/6115423?u=f3497a2a25aeabcdf8890157fd4c18ee55d3b614&v=4" height="30"/></a> <a href="https://github.com/peet1993"><img src="https://avatars.githubusercontent.com/u/19955832?u=67bd92d50360e9f411c929467e381df43688473d&v=4" height="30"/></a> <a href="https://github.com/muety"><img src="https://avatars.githubusercontent.com/u/8978843?u=09fa4391c06ebd03c0ef7fb578980401891cb964&v=4" height="30"/></a>
+<a href="https://github.com/MeerBiene"><img src="https://avatars.githubusercontent.com/u/60227302?u=a8e4ea9744fb1d60f6a8708b677c3d8a778706e8&v=4" height="30"/></a> <a href="https://github.com/OGoodness"><img src="https://avatars.githubusercontent.com/u/17714003?u=8eec684dc490897e4fffba619c1d2e8bce6031b3&v=4" height="30"/></a> <a href="https://github.com/Kugelschieber"><img src="https://avatars.githubusercontent.com/u/6115423?u=f3497a2a25aeabcdf8890157fd4c18ee55d3b614&v=4" height="30"/></a> <a href="https://github.com/peet1993"><img src="https://avatars.githubusercontent.com/u/19955832?u=67bd92d50360e9f411c929467e381df43688473d&v=4" height="30"/></a> <a href="https://github.com/muety"><img src="https://avatars.githubusercontent.com/u/8978843?u=09fa4391c06ebd03c0ef7fb578980401891cb964&v=4" height="30"/></a>
 
+* **[MeerBiene](https://github.com/MeerBiene) wrote on 4/20/2021:** Thanks for your work on wakapi!
 * **[OGoodness](https://github.com/OGoodness) wrote on 2/17/2021:** Love the Wakapi app! Thanks!
 * **[Kugelschieber](https://github.com/Kugelschieber) wrote on 2/1/2021:** Is this thing on?
 * **[peet1993](https://github.com/peet1993) wrote on 9/15/2020:** This is a guestbook entry.
