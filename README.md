@@ -67,7 +67,14 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <!--END_SECTION:guestbook-->
 
 ## 🙏 Donations
-If you like my projects and feel like supporting me with a donation you can do so via GitHub Sponsors, [Liberapay](https://liberapay.com/muety/) or by [buying me a coffee](https://www.buymeacoffee.com/n1try). Every single donation is highly appreciated! But please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂. 
+If you like my projects and want to support their development, [consider sponsoring me](https://muetsch.io/consider-sponsoring-open-source.html). Every single donation will be appreciated and will boost my motivation to keep on coding in open source 🙃. There are several options to support me:
+
+* Via [GitHub Sponsors](https://github.com/sponsors/muety)
+* Via [Liberapay](https://liberapay.com/muety/)
+* With [IOTA](https://iota.org) (`iota1qprryy5j4zd7ykfksenx97lzg0rurzy9dkwjq3fk8hmfxtc37nltkhgwrjc`)
+* Through [buying me a coffee](https://www.buymeacoffee.com/n1try) (I love ☕!)
+
+Please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂. 
 
 ## 📬 Contact
 See bio 👈. Feel free to contact me at any time!
