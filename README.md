@@ -11,7 +11,7 @@
 
 * 📍 I'm based in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
 * 🔬 I'm passionate about science, software, open source and technology in general
-* 🏢 I'm working as a Software Engineer at [Frachtwerk GmbH](https://frachtwerk.de)
+* 🏢 I'm working as a Software Engineer for [Orbio](https://orbio.earth) to fight climate change
 * 🎓 I did my Master's at [Karlsruhe Institute of Technology](https://kit.edu)
 * 📝 I have my own [blog](https://muetsch.io/archives)
 * ⚙️ I love to hack
@@ -50,8 +50,6 @@
     </td>
   </tr>
 </table>
-
-(Inspired by [MacroPower](https://github.com/MacroPower/MacroPower/blob/master/README.md#macropower-tech))
 
 ## 🗒 Guestbook
 <!--START_SECTION:guestbook-->
