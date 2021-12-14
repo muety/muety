@@ -7,8 +7,6 @@
 [![](http://badges.fw-web.space/liberapay/receives/muety.svg?logo=liberapay&style=flat-square)](https://liberapay.com/muety/)
  
 ## 👨‍💻 About Me
-![](https://github-readme-stats.vercel.app/api?username=muety&show_icons=true&include_all_commits=true&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff)
-
 * 📍 I'm based in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
 * 🔬 I'm passionate about science, software, open source and technology in general
 * 🏢 I'm working as a Software Engineer for [Orbio](https://orbio.earth) to fight climate change
