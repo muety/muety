@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me
 * 📍 I'm based in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
 * 🔬 I'm passionate about science, software, open source and technology in general
-* 🏢 I'm working as a Software Engineer for [Orbio](https://orbio.earth) to fight climate change
-* 🎓 I did my Master's at [Karlsruhe Institute of Technology](https://kit.edu)
-* 📝 I have my own [blog](https://muetsch.io/archives)
+* 🎓 I'm a PhD student at [Karlsruhe Institute of Technology](https://www.aifb.kit.edu/web/Ferdinand_M%C3%BCtsch/en)
+* 🏢 I previously worked in ClimateTech at [Orbio](https://orbio.earth) 
+* 📝 I write [blog](https://muetsch.io/archives) posts from time to time
 * ⚙️ I love to hack
 * 🗣 I'm always up for tech talk
 
