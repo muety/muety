@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Ferdinand Mütsch
 
 ### I love to solve problems with code
-![Hits](https://apps.muetsch.io/hitcount/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuety)
 [![Coding Activity](https://badges.fw-web.space/endpoint?url=https://wakapi.dev/api/compat/shields/v1/n1try/interval:30_days&style=flat-square&color=blue&label=last%2030d)](https://github.com/muety/wakapi)
 ![Followers](https://badges.fw-web.space/github/followers/muety?style=flat-square&logo=github)
 [![](http://badges.fw-web.space/liberapay/receives/muety.svg?logo=liberapay&style=flat-square)](https://liberapay.com/muety/)
