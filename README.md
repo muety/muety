@@ -6,10 +6,10 @@
 [![](http://badges.fw-web.space/liberapay/receives/muety.svg?logo=liberapay&style=flat-square)](https://liberapay.com/muety/)
  
 ## 👨‍💻 About Me
-* 📍 I'm based in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
+* 📍 I'm living in [Karlsruhe, Germany](https://www.openstreetmap.de/karte.html?zoom=15&lat=49.00687&lon=8.39938&layers=B000TT)
 * 🔬 I'm passionate about science, software, open source and technology in general
-* 🎓 I'm a PhD student at [Karlsruhe Institute of Technology](https://www.aifb.kit.edu/web/Ferdinand_M%C3%BCtsch/en)
-* 🏢 I previously worked in ClimateTech at [Orbio](https://orbio.earth) 
+* 🏢 I'm a software engineer in climate tech at [Path to Zero](https://pathtozero.de)
+* 👨‍🎓 I quit my PhD at [Karlsruhe Institute of Technology](https://www.aifb.kit.edu/web/Ferdinand_M%C3%BCtsch/en)
 * 📝 I write [blog](https://muetsch.io/archives) posts from time to time
 * ⚙️ I love to hack
 * 🗣 I'm always up for tech talk
@@ -71,7 +71,6 @@ If you like my projects and want to support their development, [consider sponsor
 
 * Via [GitHub Sponsors](https://github.com/sponsors/muety)
 * Via [Liberapay](https://liberapay.com/muety/)
-* With [IOTA](https://iota.org) (`iota1qprryy5j4zd7ykfksenx97lzg0rurzy9dkwjq3fk8hmfxtc37nltkhgwrjc`)
 * Through [buying me a coffee](https://www.buymeacoffee.com/n1try) (I love ☕!)
 
 Please don't forget to leave me some kind of message (with the donation or as a separate e-mail) to let me know which specific project the donations is for, what you like about it and what I can do to improve it further 🙂. 
