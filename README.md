@@ -14,6 +14,35 @@
 * ⚙️ I love to hack
 * 🗣 I'm always up for tech talk
 
+## ✨ Project Showcase
+<table border="0">
+ <tr>
+  <td align="center" width="256">
+   <a href="https://wakapi.dev"><img src="https://raw.githubusercontent.com/muety/wakapi/refs/heads/master/static/assets/images/icon.svg" height="128px"/></a>
+  </td>
+  <td align="center" width="256">
+   <a href="https://telepush.dev"><img src="https://raw.githubusercontent.com/muety/telepush/refs/heads/master/views/static/logo.svg" height="128px"/></a>
+  </td>
+  <td align="center" width="256">
+   <a href="https://anchr.io"><img src="https://raw.githubusercontent.com/muety/anchr/refs/heads/master/public/app/images/logo.png" height="128px"/></a>
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   <strong>Wakapi</strong>
+   <p>A self-hostable time-tracking and productivity analytics tools for developers. Written in Go. Maintained since 2020.</p>
+  </td>
+  <td align="center">
+   <strong>Telepush</strong>
+   <p>A simple bot to translate JSON HTTP requests into Telegram push messages.</p>
+  </td>
+  <td align="center">
+   <strong>Anchr</strong>
+   <p>Image uploads, link shortener and bookmarks collections. My very first web project ever.</p>
+  </td>
+ </tr>
+</table>
+
 ## ⚙️ Tech Skills
 <table>
   <tr>
@@ -47,24 +76,6 @@
     </td>
   </tr>
 </table>
-
-## 🗒 Guestbook
-<!--START_SECTION:guestbook-->
-<a href="https://github.com/Alfagun74"><img src="https://avatars.githubusercontent.com/u/22225051?u=999afa2461316bb1f4fe931f25c1044115bc959d&v=4" height="30"/></a> <a href="https://github.com/oasido"><img src="https://avatars.githubusercontent.com/u/8614095?u=ffc34f8188ce47153ce93e0eb5cc749fb8d07304&v=4" height="30"/></a> <a href="https://github.com/xMdb"><img src="https://avatars.githubusercontent.com/u/46137770?u=0745abeda02425b0f8df4ff73c88e9b8e05e0bfb&v=4" height="30"/></a> <a href="https://github.com/CuukyOfficial"><img src="https://avatars.githubusercontent.com/u/26041180?u=dec0b9ea31c932dc48f365b0e2e375e7c107e4f3&v=4" height="30"/></a> <a href="https://github.com/wsascha"><img src="https://avatars.githubusercontent.com/u/14611179?u=ffaae9ba051c496defe1c0c34674881cbf90a89c&v=4" height="30"/></a> <a href="https://github.com/MeerBiene"><img src="https://avatars.githubusercontent.com/u/60227302?u=a8e4ea9744fb1d60f6a8708b677c3d8a778706e8&v=4" height="30"/></a> <a href="https://github.com/OGoodness"><img src="https://avatars.githubusercontent.com/u/17714003?u=8eec684dc490897e4fffba619c1d2e8bce6031b3&v=4" height="30"/></a> <a href="https://github.com/Kugelschieber"><img src="https://avatars.githubusercontent.com/u/6115423?u=31a34ff641d5726d4e099860560dfabf7c217cc2&v=4" height="30"/></a> <a href="https://github.com/poettig"><img src="https://avatars.githubusercontent.com/u/19955832?u=858693869a36c2ef4e919aec4ee0dbf16699c115&v=4" height="30"/></a> <a href="https://github.com/muety"><img src="https://avatars.githubusercontent.com/u/8978843?u=916b8b4c6d8b5ce3546782db37570c946269c605&v=4" height="30"/></a>
-
-* **[Alfagun74](https://github.com/Alfagun74) wrote on 1/9/2024:** Wakapi was a solid idea, exactly what i was looking for!
-* **[oasido](https://github.com/oasido) wrote on 3/27/2022:** Aangenaam kennis te maken!
-* **[xMdb](https://github.com/xMdb) wrote on 1/30/2022:** Thanks for making Wakapi!
-* **[CuukyOfficial](https://github.com/CuukyOfficial) wrote on 1/28/2022:** Love your work! Greetings from Karlsruhe :) (I'm also at the KIT)
-* **[wsascha](https://github.com/wsascha) wrote on 10/5/2021:** Nette Seite! Wusste gar nicht, dass das KIT Alumni emails anbietet. – Direkt mal beantragt. ^^
-* **[MeerBiene](https://github.com/MeerBiene) wrote on 4/20/2021:** Thanks for your work on wakapi!
-* **[OGoodness](https://github.com/OGoodness) wrote on 2/17/2021:** Love the Wakapi app! Thanks!
-* **[Kugelschieber](https://github.com/Kugelschieber) wrote on 2/1/2021:** Is this thing on?
-* **[poettig](https://github.com/poettig) wrote on 9/15/2020:** This is a guestbook entry.
-* **[muety](https://github.com/muety) wrote on 9/15/2020:** Welcome to my GitHub profile 🙂
-
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/muety/muety/issues/new?title=Guestbook) to my guestbook!
-<!--END_SECTION:guestbook-->
 
 ## 🙏 Donations
 If you like my projects and want to support their development, [consider sponsoring me](https://muetsch.io/consider-sponsoring-open-source.html). Every single donation will be appreciated and will boost my motivation to keep on coding in open source 🙃. There are several options to support me:
